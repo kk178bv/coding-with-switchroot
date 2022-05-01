@@ -24,7 +24,7 @@ Update the proxychains4 default configuration
 
 	sudo gedit /etc/proxychains4.conf
 	
-Now you can run any command using proxychains4 
+Now you can run any command using proxychains4, for example
 
 	proxychains4 curl myip.ipip.net
 
